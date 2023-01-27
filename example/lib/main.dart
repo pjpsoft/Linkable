@@ -16,7 +16,7 @@ class LinkableExample extends StatelessWidget {
             Center(
               child: Linkable(
                 text:
-                    "https://rivieresainte-marguerite.com",
+                    "Hi!\nI'm Anup.\n\nYou can email me at 1anuppanwar@gmail.com.\nOr just whatsapp me @ +91-8968894728.\n\nFor more info visit: \ngithub.com/anupkumarpanwar \nor\nhttps://www.linkedin.com/in/anupkumarpanwar/",
               ),
             ),
           ],
